@@ -1,7 +1,7 @@
 {
   "name": "Digit",
   "short_name": "Digit",
-  "description": "Portal das aplicações Digit — DigiNote, DigiSpot e DigiEduca",
+  "description": "Portal das aplicações Digit — DigiNote, DigiSpot, DigiEduca, DigiComi e DigiTorial",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#F7F4EF",
@@ -45,6 +45,16 @@
     {
       "name": "DigiEduca",
       "url": "https://digit-id.github.io/DigiEduca/",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "DigiTorial",
+      "url": "https://digit-id.github.io/DigiTorial/",
       "icons": [
         {
           "src": "icon-192.png",
